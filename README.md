@@ -10,6 +10,8 @@ also learning about microchips and motors (arduino).
 
 My main goal at the moment is learning HTML, CSS, and Javascript so I can create my own website. You can see my progress here:
 
+https://stin-aw.github.io/
+
 
 <!--
 **stin-aw/stin-aw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
